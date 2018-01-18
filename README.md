@@ -16,6 +16,7 @@ Sharing of your information. Personal Information about our users is an integral
 
 ### Sensitive permissions we use
 CAMERA: To turn on Flashlight and shortcut to snap photos.
+
 BIND_NOTIFICATION_LISTENER_SERVICE: It is convenient to get update notifications
 
 ### Compliance with laws and law enforcement
