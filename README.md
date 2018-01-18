@@ -16,6 +16,7 @@ Sharing of your information. Personal Information about our users is an integral
 
 ### Sensitive permissions we use
 CAMERA: To turn on Flashlight and shortcut to snap photos.
+BIND_NOTIFICATION_LISTENER_SERVICE: It is convenient to get update notifications
 
 ### Compliance with laws and law enforcement
 Control Center reserves the right to share your information with third parties if we believe such action is necessary in order to: (1) conform with the requirements of the law or to comply with legal process served upon us; (2) protect or defend our legal rights or property (3) investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of the terms and conditions of using our Apps and Services.
