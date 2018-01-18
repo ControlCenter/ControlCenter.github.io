@@ -15,7 +15,7 @@ Sharing of your information. Personal Information about our users is an integral
 2. Control Center may share with third parties App Data and certain aggregated, non-personal information, but such information does not include your photos, contact information or other information that identifies you personally.
 
 ### Sensitive permissions we use
-CAMERA: To turn on Flashlight and shortcut to snap photos.
+CAMERA: To turn on Flashlight and shortcut to snap photos.  
 BIND_NOTIFICATION_LISTENER_SERVICE: It is convenient to get update notifications
 
 ### Compliance with laws and law enforcement
